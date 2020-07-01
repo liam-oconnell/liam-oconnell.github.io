@@ -1,7 +1,5 @@
 ## Liam Edward O’Connell
-```markdown
-Native New Yorker interested in urban history & transportation policy. progressive. Studying Social and Political History & Architecture at Carnegie Mellon. Opinions mine. My pronouns are he/him.
-```
+
 
 ### My Experience
 *Visitor Experience Facilitator, New York Transit Museum — Brooklyn, NY*

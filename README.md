@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/liam-oconnell/liam-oconnell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Liam Edward O’Connell
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Native New Yorker interested in urban history & transportation policy. progressive. Studying Social and Political History & Architecture at Carnegie Mellon. Opinions mine. My pronouns are he/him.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### My Experience
+*Visitor Experience Facilitator, New York Transit Museum — Brooklyn, NY*
+February 2018-Present
+Leads and assists with educational workshops for children and for the general public, conveying the significance of public transportation in the history and future of New York City. Additionally assists with the operations of the museum, including event set-up. Developed new public signage, staff guides, and procedures to improve one of the most popular public programs, the Train Operator Workshop.
 
-### Jekyll Themes
+*Government & Community Relations Intern, NYCEDC — New York, NY*
+June-August 2019
+Assisted with community outreach for NYCEDC initiatives and events, including planning for annual Block Party at the Brooklyn Army Terminal. Coordinated weekly reports to external stakeholders, including at City Hall. Co-authored a report on best practices to help make the Government & Community Relations Department’s weekly public email newsletter communications more effective. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liam-oconnell/liam-oconnell.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Alumni Relations Intern, Carnegie Mellon University — Pittsburgh, PA*
+January-May 2019
+Coordinated email communications to alumni of the BXA interdisciplinary program at Carnegie Mellon; helped to plan events to connect current BXA students with alumni, and to maintain connections between BXA alumni; communicated with alumni to solicit submissions for BXA’s annual *Kaleidoscope* showcase. 
